@@ -1,7 +1,7 @@
-## node-mysql-crud-app
-In this repo I have created the restful api using nodejs, express and mysql
+## Node, MySQL, CRUD Application.
+I've created this repo for basic and good learning NodeJS,ExperessJs, with MySQL Database.
 
-### Author : Rahul Gupta
+### Author : Rahul Gupta ( Full Stack Developer )
 
 ### `MySQL configuration`
 Please create database and make the changes in the `config/db.config.js` file.
